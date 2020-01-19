@@ -19,7 +19,7 @@
     "test": "jest && npm run test-typings",
     "test-typings": "tsc -p tsconfig.json"
   },
-  "main": "index",
+  "main": "index.js",
   "files": [
     "index.js",
     "typings/index.d.ts"
